@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Green-Hotel/static/css/main.33816f83.css",
-    "main.js": "/Green-Hotel/static/js/main.b18c60b9.js",
+    "main.css": "/Green-Hotel/static/css/main.86682d6d.css",
+    "main.js": "/Green-Hotel/static/js/main.8f07b077.js",
     "static/media/menu2.jpg": "/Green-Hotel/static/media/menu2.50b08cbd588cac611205.jpg",
     "static/media/menu1.jpg": "/Green-Hotel/static/media/menu1.0c72e8166a66bb537c2a.jpg",
     "static/media/image1.jpg": "/Green-Hotel/static/media/image1.4347afd6baf60e259f3c.jpg",
@@ -18,11 +18,11 @@
     "static/media/menu3.jpg": "/Green-Hotel/static/media/menu3.32ea424ac9e18426e8f8.jpg",
     "static/media/image3.jpg": "/Green-Hotel/static/media/image3.4665be6e8acab064a805.jpg",
     "index.html": "/Green-Hotel/index.html",
-    "main.33816f83.css.map": "/Green-Hotel/static/css/main.33816f83.css.map",
-    "main.b18c60b9.js.map": "/Green-Hotel/static/js/main.b18c60b9.js.map"
+    "main.86682d6d.css.map": "/Green-Hotel/static/css/main.86682d6d.css.map",
+    "main.8f07b077.js.map": "/Green-Hotel/static/js/main.8f07b077.js.map"
   },
   "entrypoints": [
-    "static/css/main.33816f83.css",
-    "static/js/main.b18c60b9.js"
+    "static/css/main.86682d6d.css",
+    "static/js/main.8f07b077.js"
   ]
 }
