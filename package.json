@@ -1,7 +1,7 @@
 {
   "name": "hotel",
   "version": "0.1.0",
-"homepage": "https://akhil967-hub.github.io/Green-Hotel",
+  "homepage": "https://akhil967-hub.github.io/Green-Hotel",
   "private": true,
   "type": "module",
   "dependencies": {
